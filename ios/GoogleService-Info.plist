@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352443083199-m7n0ciii3mhstupajt00sc0gmjfbbuao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352443083199-m7n0ciii3mhstupajt00sc0gmjfbbuao</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_4AdP-uJ-Do1xi4Qb_rCeju9wzwgN9sM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352443083199</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SocialLogin</string>
+	<key>PROJECT_ID</key>
+	<string>sociallogin-62b3c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sociallogin-62b3c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352443083199:ios:b49ed7c5e3d76e9d9ed90a</string>
+	<key>DATABASE_URL</key>
+	<string>https://sociallogin-62b3c.firebaseio.com</string>
+</dict>
+</plist>
